@@ -1,4 +1,4 @@
-# Hospitality-Domain-Data-Analytics
+# Hotel-Data-Analytics
 
 Project Overview : 
 This project focuses on leveraging data analytics within the hospitality sector to enhance decision-making processes, optimize occupancy rates, and boost revenue growth. Utilizing a combination of Python and Excel, the project involves detailed exploratory data analysis, data cleaning, and advanced data integration techniques.
